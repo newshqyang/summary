@@ -59,8 +59,6 @@ class MySolution {
 @url https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/
  */
 
-package com.swsbty.summary.binary_search.que_shi_de_shu_zi_lcof;
-
 public class Main {
     public static void main(String[] args) {
         int[] sample = new int[] {0, 1, 3};
