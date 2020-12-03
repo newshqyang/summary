@@ -1,6 +1,7 @@
+package com.swsbty.others.he_wei_sde_lian_xu_zheng_shu_xu_lie_lcof;
+
 import java.util.List;
 import java.util.LinkedList;
-
 
 
 public class Main {

@@ -1,3 +1,5 @@
+package com.swsbty.binary_search.he_wei_sde_lian_xu_zheng_shu_xu_lie_lcof;
+
 /*
 这是我第一次写的代码，没看题解，报错了。。。
 看了题解之后，我觉得错误原因应该是没有看清题意。。。
